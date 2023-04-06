@@ -20,7 +20,7 @@ const Header = () => {
         </Link>
 
         {/* Nav Items Section */}
-        <ul className='items-center hidden space-x-8 lg:flex'>
+        <ul className='items-center hidden space-x-8 lg:flex font-bold'>
           <li>
             <NavLink
               to='/'
